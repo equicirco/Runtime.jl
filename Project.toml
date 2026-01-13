@@ -13,4 +13,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 JCGECore = { url = "https://github.com/equicirco/JCGECore.jl" }
 
 [compat]
+DualSignals = "0.1"
+JCGECore = "0.1"
+JuMP = "1"
 julia = "1.10"
