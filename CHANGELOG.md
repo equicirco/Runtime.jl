@@ -10,10 +10,12 @@ Removed: For features removed in this release.
 Fixed: For any bug fixes.
 Security: For vulnerabilities.
 
-## [0.1.0] - unreleased
+## [0.1.0] - 2026-01-15
 ### Added
-- Project layout and package boundaries.
-- Initial block-based modeling interfaces and RunSpec structure.
-- Calibration and output utilities with canonical data schema.
-- Example models and integration tests.
-- Documentation scaffolding and package docs.
+- JuMP-backed runtime module with `KernelContext` registries for variables and equations.
+- Equation compilation from JCGECore expressions, including objective support.
+- Model execution helpers: `run!`, `solve!`, `compile_equations!`.
+- Residual collection, summaries, and validation reports.
+- Snapshot helpers for variable values and bounds.
+- DualSignals export for constraint residuals.
+- Minimal tests and documentation scaffolding.
