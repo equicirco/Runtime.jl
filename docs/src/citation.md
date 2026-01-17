@@ -18,14 +18,14 @@ URL: https://JCGE.org
 
 If you use this package, please cite:
 
-Boero, R. *JCGERuntime.jl - Runtime execution and solver integration for JCGE.jl models.* [software], 2026.
+Boero, R. *JCGERuntime.jl - Runtime execution and solver integration for JCGE models.* [software], 2026.
 DOI: 10.5281/zenodo.18258034
 URL: https://equicirco.github.io/JCGERuntime.jl/
 SourceCode: https://github.com/equicirco/JCGERuntime.jl
 
 ```bibtex
 @software{boero_jcgeruntime_2026,
-  title  = {JCGERuntime.jl - Runtime execution and solver integration for JCGE.jl models.},
+  title  = {JCGERuntime.jl - Runtime execution and solver integration for JCGE models.},
   author = {Boero, Riccardo},
   year   = {2026},
   doi    = {10.5281/zenodo.18258034},

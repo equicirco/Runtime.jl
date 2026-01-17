@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: JCGERuntime.jl - Runtime execution and solver integration for JCGE.jl models.
+title: JCGERuntime.jl - Runtime execution and solver integration for JCGE models.
 message: >-
   v0.1.0 - Initial public release.
 type: software
